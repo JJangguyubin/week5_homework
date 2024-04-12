@@ -1,3 +1,0 @@
-Hi, I am in master branch..!!
-Hi, I am in A branch..!!
-Hi, I am in B branch..!!
